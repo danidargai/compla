@@ -1,0 +1,27 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "description": "Not working",
+            "complainant": "Bad",
+            "products": "phone",
+            "type": "New"
+        },
+        {
+            "id": 2,
+            "description": "Not working correctly",
+            "complainant": "Terrible",
+            "products": "Laptop",
+            "type": "New"
+        
+        },
+        {
+            "id": 3,
+            "description": "working",
+            "complainant": "Bad feature",
+            "products": "Pc",
+            "type": "Used"
+        
+        }
+    ]
+}
